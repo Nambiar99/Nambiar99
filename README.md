@@ -2,7 +2,9 @@
 <br>
 I am Nipun Nambiar. I do interesting things with Data. Does that make me a Data Scientist? I guess it does.
 <br>
+
 **Socials**
+
 <a href="www.linkedin.com/in/nipunrnambiar">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
 </a>
