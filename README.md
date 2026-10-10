@@ -1,7 +1,7 @@
 ## Hello there. Welcome to my Portfolio.
 </br>
 <a href=www.linkedin.com/in/nipunrnambiar>
-<img align="left" alt="Nipun Nambiar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<i class="fa-brands fa-linkedin" style="color: rgb(116, 192, 252);"></i>
 </a>
 
 <!--
