@@ -1,10 +1,14 @@
 ## Hello there. Welcome to my Portfolio.
 </br>
 
-<a href="https://linkedin.com" target="_blank">
+<a href="www.linkedin.com/in/nipunrnambiar">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
 </a>
 
+I am Nipun Nambiar. I do interesting things with Data. Does that make me a Data Scientist? I guess it does.
+**Languages and Tools**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <!--
 **Nambiar99/Nambiar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
