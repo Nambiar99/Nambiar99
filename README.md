@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there. Welcome to my Portfolio.
+</br>
+<a href=www.linkedin.com/in/nipunrnambiar>
+<img align="left" alt="Nipun Nambiar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <!--
 **Nambiar99/Nambiar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
