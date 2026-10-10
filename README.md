@@ -1,7 +1,8 @@
 ## Hello there. Welcome to my Portfolio.
-</br>
+<br>
 I am Nipun Nambiar. I do interesting things with Data. Does that make me a Data Scientist? I guess it does.
-</br>
+
+<br>
 
 **Socials**
 
