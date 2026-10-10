@@ -1,8 +1,7 @@
 ## Hello there. Welcome to my Portfolio.
 </br>
-<a href=www.linkedin.com/in/nipunrnambiar>
-<i class="fa-brands fa-linkedin" style="color: rgb(116, 192, 252);"></i>
-</a>
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
 <!--
 **Nambiar99/Nambiar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
