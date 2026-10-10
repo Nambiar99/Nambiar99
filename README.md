@@ -2,7 +2,7 @@
 </br>
 
 <a href="https://linkedin.com" target="_blank">
-  <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
+  <img src="[https://githubusercontent.com](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" alt="LinkedIn" width="40" height="40" />
 </a>
 
 
