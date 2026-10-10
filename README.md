@@ -1,7 +1,10 @@
 ## Hello there. Welcome to my Portfolio.
 </br>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" />
+</a>
+
 
 <!--
 **Nambiar99/Nambiar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
