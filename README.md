@@ -24,6 +24,16 @@ I am Nipun Nambiar. I do interesting things with Data.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+## Flagship Projects
+<a href="https://github.com/Nambiar99/EV-Battery-Surrogate" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #cc3030; color: white; border: none; border-radius: 5px; cursor: pointer;">EV Battery Surrogate</button></a>
+<a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #184dbf; color: white; border: none; border-radius: 5px; cursor: pointer;">Intelligent Monitoring - Powerline</button></a>
+<a href="https://github.com/Nambiar99/DronePayloadLab" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #30cc71; color: white; border: none; border-radius: 5px; cursor: pointer;">Drone Project</button></a>
+
+---
+
+<a href="https://vtechworks.lib.vt.edu/items/287979fe-fb66-41f5-a26e-722ccbfe28e6" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #cc3079; color: white; border: none; border-radius: 5px; cursor: pointer;">Thesis</button></a>
+<a href="https://doi.org/10.1115/DETC2024-146264" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #d27d22; color: white; border: none; border-radius: 5px; cursor: pointer;">Conference Paper</button></a>
 <!--
 **Nambiar99/Nambiar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
