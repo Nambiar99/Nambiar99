@@ -7,7 +7,7 @@ I am Nipun Nambiar. I do interesting things with Data.
 
 **Socials**
 
-<a href="www.linkedin.com/in/nipunrnambiar">
+<a href="https://www.linkedin.com/in/nipunrnambiar">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40" />
 </a>
 
