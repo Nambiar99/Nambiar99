@@ -26,14 +26,42 @@ I am Nipun Nambiar. I do interesting things with Data.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Flagship Projects
-<a href="https://github.com/Nambiar99/EV-Battery-Surrogate" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #cc3030; color: white; border: none; border-radius: 5px; cursor: pointer;">EV Battery Surrogate</button></a>
-<a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #184dbf; color: white; border: none; border-radius: 5px; cursor: pointer;">Intelligent Monitoring - Powerline</button></a>
-<a href="https://github.com/Nambiar99/DronePayloadLab" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #30cc71; color: white; border: none; border-radius: 5px; cursor: pointer;">Drone Project</button></a>
+<table>
+  <tr>
+    <td width="30%">
+      <h3>EV Battery Surrogate</h3>
+      <p>A physics-informed surrogate modeling framework for an EV battery thermal system.</p>
+      <a href="https://github.com/Nambiar99/EV-Battery-Surrogate">Repository</a>
+    </td>
+    <td width="30%">
+      <h3>Intelligent Monitoring - Powerline</h3>
+      <p>Interactive dashboard for monitoring and reconstructing powerline vibrations.</p>
+      <a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard">Repository</a>
+    </td>
+	<td width="30%">
+      <h3>Drone Project</h3>
+      <p>Simulation framework for nonlinear drone payload transportation using Model Predictive Control.</p>
+      <a href="https://github.com/Nambiar99/DronePayloadLab">Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<a href="https://vtechworks.lib.vt.edu/items/287979fe-fb66-41f5-a26e-722ccbfe28e6" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #cc3079; color: white; border: none; border-radius: 5px; cursor: pointer;">Thesis</button></a>
-<a href="https://doi.org/10.1115/DETC2024-146264" target="_blank"><button style="padding: 10px 20px; font-size: 16px; background-color: #d27d22; color: white; border: none; border-radius: 5px; cursor: pointer;">Conference Paper</button></a>
+<table>
+	<tr>
+		<td width="50%">
+			<h3>Thesis</h3>
+			<p>Intelligent Monitoring of Powerline Vibrations - Sparse Sensing and Predictive Modeling Approach</p>
+			<a href="https://vtechworks.lib.vt.edu/items/287979fe-fb66-41f5-a26e-722ccbfe28e6">Link</a>
+		</td>	
+		<td width="50%">
+			<h3>Conference Paper</h3>
+			<p>Dynamic State Tracking of Overhead Powerlines With Real Time State Estimation: a Data-Driven Approach</p>
+			<a href="https://doi.org/10.1115/DETC2024-146264">Link</a>
+		</td>	
+	</tr>
+</table>
 <!--
 **Nambiar99/Nambiar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
