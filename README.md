@@ -28,6 +28,11 @@ I am Nipun Nambiar. I do interesting things with Data.
 ## Flagship Projects
 <table>
   <tr>
+	 <td width="30%">
+      <h3>Global Donation Dashboard </h3>
+      <p>Interactive Dashboard for Non-Profit organizations.</p>
+      <a href="https://github.com/Nambiar99/nonprofit-analytics">Repository</a>
+    </td>
     <td width="30%">
       <h3>EV Battery Surrogate</h3>
       <p>A physics-informed surrogate modeling framework for an EV battery thermal system.</p>
@@ -37,11 +42,6 @@ I am Nipun Nambiar. I do interesting things with Data.
       <h3>Intelligent Monitoring - Powerline</h3>
       <p>Interactive dashboard for monitoring and reconstructing powerline vibrations.</p>
       <a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard">Repository</a>
-    </td>
-	<td width="30%">
-      <h3>Drone Project</h3>
-      <p>Simulation framework for nonlinear drone payload transportation using Model Predictive Control.</p>
-      <a href="https://github.com/Nambiar99/DronePayloadLab">Repository</a>
     </td>
   </tr>
 </table>
