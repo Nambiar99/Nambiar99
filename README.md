@@ -28,22 +28,34 @@ I am Nipun Nambiar. I do interesting things with Data.
 ## Flagship Projects
 <table>
   <tr>
-	 <td width="30%">
-      <h3>Global Donation Dashboard </h3>
-      <p>Interactive Dashboard for Non-Profit organizations.</p>
-      <a href="https://github.com/Nambiar99/nonprofit-analytics">Repository</a>
+	 <td width="50%">
+      <h3>New York Energy Forecast </h3>
+      <p>LSTM based NY Energy Forecast and Dashboard.</p>
+      <a href="https://github.com/Nambiar99/ny-energy-forecast">Repository</a>
     </td>
-    <td width="30%">
+    <td width="50%">
       <h3>EV Battery Surrogate</h3>
       <p>A physics-informed surrogate modeling framework for an EV battery thermal system.</p>
       <a href="https://github.com/Nambiar99/EV-Battery-Surrogate">Repository</a>
     </td>
-    <td width="30%">
-      <h3>Intelligent Monitoring - Powerline</h3>
-      <p>Interactive dashboard for monitoring and reconstructing powerline vibrations.</p>
-      <a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard">Repository</a>
-    </td>
   </tr>
+</table>
+
+---
+
+<table>
+	<tr>
+		<td width="50%">
+	      <h3>Global Donation Dashboard </h3>
+	      <p>Interactive Dashboard for Non-Profit organizations.</p>
+	      <a href="https://github.com/Nambiar99/nonprofit-analytics">Repository</a>
+		</td>
+		<td width="50%">
+			<h3>Intelligent Monitoring - Powerline</h3>
+			<p>Intelligent Monitoring of Powerline Vibrations - Sparse Sensing and Predictive Modeling Approach</p>
+			<a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard">Link</a>
+		</td>				
+	</tr>
 </table>
 
 ---
