@@ -2,7 +2,7 @@
 <br>
 I am Nipun Nambiar. I do interesting things with Data. Also I design stuff. Weird I know.
 <br>
-Check out my portfolio website here: <a href="https://nambiar99.github.io/" target="_blank">Portfolio</a>
+Check out my portfolio website here: <a href="https://nambiar99.github.io/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 <br>
 <br>
 
