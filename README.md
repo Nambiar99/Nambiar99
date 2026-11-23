@@ -1,7 +1,8 @@
 ## [Hello there](https://tenor.com/en-GB/view/general-kenobi-general-grievous-revenge-of-the-sith-star-wars-gif-26397323). Welcome to my Portfolio.
 <br>
-I am Nipun Nambiar. I do interesting things with Data.
+I am Nipun Nambiar. I do interesting things with Data. Also I design stuff. Weird I know.
 <br>
+Check out my portfolio website here: [Portfolio](https://nambiar99.github.io/)
 <br>
 <br>
 
