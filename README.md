@@ -54,7 +54,7 @@ Check out my portfolio website here: <a href="https://nambiar99.github.io/" targ
 		<td width="50%">
 			<h3>Intelligent Monitoring - Powerline</h3>
 			<p>Intelligent Monitoring of Powerline Vibrations - Sparse Sensing and Predictive Modeling Approach</p>
-			<a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard">Link</a>
+			<a href="https://github.com/Nambiar99/Inteliigent-Monitoring-Dashboard">Repository</a>
 		</td>				
 	</tr>
 </table>
@@ -66,7 +66,7 @@ Check out my portfolio website here: <a href="https://nambiar99.github.io/" targ
 		<td width="50%">
 			<h3>Thesis</h3>
 			<p>Intelligent Monitoring of Powerline Vibrations - Sparse Sensing and Predictive Modeling Approach</p>
-			<a href="https://vtechworks.lib.vt.edu/items/287979fe-fb66-41f5-a26e-722ccbfe28e6">Repository</a>
+			<a href="https://vtechworks.lib.vt.edu/items/287979fe-fb66-41f5-a26e-722ccbfe28e6">Link</a>
 		</td>	
 		<td width="50%">
 			<h3>Conference Paper</h3>
